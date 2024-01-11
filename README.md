@@ -4,10 +4,10 @@ Próbujesz wypłacić pieniądze z bankomatu, używasz do tego karty visa (pin 1
 
 Gra powstała we współpracy z Adamem Forteckim, który odpowiada za nieliczne fragmenty kodu oraz za dobór/tworzenie części audiowizualnej, ja odpowiadam za większość kodu oraz wszystkie operacje wykonane z poziomu silnika gry. (grafiki przedstawiające rękawice bokserskie, las, oko, logo firm, zdjęcia kart, a także nagrania wyświetlane po porażce/wygranej oraz wszystkie użyte tutaj dźwięki, nie należą do nas i nie rościmy sobie do nich żadnych praw). Gra powstała przy użyciu silnika Unity.
 
-#Instrukcja
+# Instrukcja
 
 Instrukcja znajduje się pod ikoną oka, okno można zamknąć klikając ponownie na oko (należy kliknąć dwa razy, w sytuacji uprzedniego uruchomienia tłumaczenia).
 
-#Do poprawy
+# Do poprawy
 
 Zapętlenie rozgrywki.

@@ -8,6 +8,6 @@ Gra powstała we współpracy z Adamem Forteckim, który odpowiada za nieliczne 
 
 Instrukcja znajduje się pod ikoną oka, okno można zamknąć klikając ponownie na oko (należy kliknąć dwa razy, w sytuacji uprzedniego uruchomienia tłumaczenia).
 
-# Do poprawy
+# Do zrobienia
 
-Zapętlenie rozgrywki.
+Poprawa zapętlenia rozgrywki.

@@ -16,4 +16,4 @@ Instrukcja znajduje się pod ikoną oka, okno można zamknąć klikając ponowni
 
 1) Poprawa zapętlenia rozgrywki.
 2) Ukrywanie napisu w trakcie walki.
-3) Regeneracja wytzrymałości bankomatu.
+3) Regeneracja wytrzymałości bankomatu.
